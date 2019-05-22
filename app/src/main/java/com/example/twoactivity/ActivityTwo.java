@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-public class ActivityTwo extends AppCompatActivity {
+public class ActivityTwo extends MainActivity {
 
     final String TAG = "States";
 
